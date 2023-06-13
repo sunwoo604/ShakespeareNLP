@@ -10,7 +10,7 @@ I have loaded the dataset into the list consisted of list of strings(one sonnet 
 
 ### Syllable tokenization
 
-This was one of my attempts to improve the model and divided each string into every syllables and record the number of syllables per string
+This was one of my attempts to improve the model and divided each string into every syllables and record the number of syllables per string. This could be utilized on the further improvements.
 
 ### Character level RNN
 
